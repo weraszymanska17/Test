@@ -106,7 +106,7 @@ Key fields include:
 
 
 ## 🌐 Links
-- [See Dashboard in PDF]
+- [See Dashboard in PDF](Porject_1/Loan_Default_Risk_Analysis.pdf)
 - [Power BI Dashboard](https://app.powerbi.com/groups/d9d52c35-73cc-477f-b0d9-e70a653430cd/reports/93f81295-d66d-4f49-be43-a9452e295244/7054507e0b49540e2a84?experience=power-bi)
 
 ## 🏷️ Tag: `Power BI` `SQL` `Loan Analysis` `Risk Analytics` `Data Visualization`
