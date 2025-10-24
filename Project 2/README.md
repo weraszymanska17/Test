@@ -101,7 +101,7 @@ Each KPI was implemented using **DAX Measures** to ensure dynamic aggregation an
 
 
 ## 🌐 Links
-- [Dashboard in PDF](Project 2.pdf)
+- [Dashboard in PDF](Project_2.pdf)
 - [Power BI Dashboard](https://app.powerbi.com/groups/ae732784-0406-4839-9c1a-079d5bcd2d66/reports/b86f7967-08f2-41c4-ab4c-99adb63ba0a0/45d1c450d3eb65186867?experience=power-bi)
 
 ## 🏷️ Tag: `Power BI` `SQL` `DataMigration` `MySQL` `Data Visualization`
