@@ -1,0 +1,10 @@
+SELECT  * FROM `engaged-purpose-475412-e1.1.Housing` LIMIT 1000
+
+create table `engaged-purpose-475412-e1.1.Test` as 
+select * from `engaged-purpose-475412-e1.1.Housing`; 
+
+SELECT  * FROM `engaged-purpose-475412-e1.1.Test` LIMIT 1000;
+
+update `engaged-purpose-475412-e1.1.Test` set sqm = 100 where no_rooms = 3;
+
+select distinct sqm from  `engaged-purpose-475412-e1.1.Test`  where no_rooms = 3;
