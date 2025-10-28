@@ -136,7 +136,8 @@ This balance between financing costs and yield growth indicates a **mature, well
 
 
 ## 🌐 Links
-- [Dashboard in PDF]
+- [Dashboard in PDF](House_Market_Overview.pdf)
 - [Power BI Dashboard](https://app.powerbi.com/groups/me/reports/83f3aa54-997e-432d-95af-be68e6f52f22/7a07bb9a6364c4ae0800?experience=power-bi&clientSideAuth=0)
+- [Google BigQuery SQL](bigquery_sql.txt)
 
 ## 🏷️ Tag: `Power BI` `SQL` `RealEstateAnalytics` `BigQuery` `Data Visualization`
