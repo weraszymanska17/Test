@@ -12,7 +12,7 @@ Each project demonstrates a complete workflow: from data extraction and cleaning
 2. [Project 2 — Data Visualization for Business Optimization](#project-2--data-visualization-for-business-optimization)
 3. [Project 3 — Real Estate Market Analysis](#project-3--real-estate-market-analysis)
 4. [Project 4 — Men’s Fashion Brand Performance Analysis (Insight BI)](#project-4--mens-fashion-brand-performance-analysis-insight-bi)
-5. [Project 5 — Tourism in Poland Data Analysis](#project-5-tourism-in-poland-data-analysis)
+5. [Project 5 — Tourism in Poland Data Analysis](#project-5---tourism-in-poland-data-analysis)
 6. [About Me](#about-me)
 
 ---
