@@ -1,6 +1,6 @@
 import os
 import pandas as pd
-import plotly_express as px
+import plotly.express as px
 import dash
 from dash.dependencies import Input, Output
 from dash import dash_table, dcc, html
@@ -26,7 +26,7 @@ data = pd.read_csv("dane.csv", delimiter=';', index_col=0)
 # print(data)
 
 # Remove spaces from strings
-data = data.replace('\s', '', regex=True)
+data = data.replace(r'\s', '', regex=True)
 
 # Replace NaN with empty string
 data = data.fillna('')
