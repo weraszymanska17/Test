@@ -72,7 +72,7 @@ Each project demonstrates a complete workflow: from data extraction and cleaning
 
 ---
 
-## 👩‍💻 About Me
+## About Me
 I’m a **Data Analyst & Business Intelligence Developer** with a passion for transforming complex datasets into actionable insights and interactive visual stories.
 
 My work focuses on combining **data analysis**, **visual communication**, and **business understanding** to help organizations make better, data-informed decisions.
