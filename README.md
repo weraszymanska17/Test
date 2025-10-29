@@ -17,12 +17,13 @@ Each project demonstrates a complete workflow: from data extraction and cleaning
 
 ---
 
-## 📊 [Project 1 — Loan Default Risk Analysis](#project-1--loan-default-risk-analysis)
+## 📊 Project 1 — Loan Default Risk Analysis
 **Goal:** Develop a BI solution to help financial institutions identify high-risk borrowers and improve loan approval decisions.  
 **Tools:** Power BI, SQL Server, DAX, Power Query  
 **Focus:** Risk segmentation, KPI dashboarding, and predictive insight generation.  
 
 🔗 [View Project →](./Project_1)
+
 ---
 
 ## 📈 Project 2 — Data Visualization for Business Optimization
@@ -51,7 +52,7 @@ Each project demonstrates a complete workflow: from data extraction and cleaning
 🔗 [View Project →](./Project%204)
 
 ---
-## 🌍 [Project 5 — Tourism in Poland Data Analysis](#project-5--tourism-in-poland-data-analysis)
+## 🌍 Project 5 — Tourism in Poland Data Analysis
 **Goal:** Explore trends in Polish tourism (1995–2021) using interactive dashboards and regression models.  
 **Tools:** Python, Dash, Plotly, Pandas, Scikit-learn  
 **Focus:** Tourist flows, expenditure, age distribution, and predictive modeling.  
