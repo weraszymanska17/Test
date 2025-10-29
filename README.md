@@ -50,7 +50,7 @@ Each project demonstrates a complete workflow: from data extraction and cleaning
 🔗 [View Project →](./Project%204)
 
 ---
-## 🌍 Project 5 — Tourism in Poland Data Analysis
+## 🌍 [Project 5 — Tourism in Poland Data Analysis](#project-4--tourism-in-poland-data-analysis)
 **Goal:** Explore trends in Polish tourism (1995–2021) using interactive dashboards and regression models.  
 **Tools:** Python, Dash, Plotly, Pandas, Scikit-learn  
 **Focus:** Tourist flows, expenditure, age distribution, and predictive modeling.  
