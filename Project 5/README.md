@@ -19,7 +19,9 @@ Tourism plays a key role in Poland's economy, influencing revenue, employment, a
 
 - **Data Cleaning and Preparation:** Handling missing values, type conversion, removing spaces and formatting issues.  
 - **Interactive Visualizations:**  
-  - Tourist arrivals and departures  
+  - Tourist arrivals and departures
+    ![Arrivals Chart](arrivals_plot.png)
+    ![Departure Chart](departure_plot.png)
   - Domestic and outbound travel expenditures  
   - Age group analysis of tourists  
   - Top travel destinations  
