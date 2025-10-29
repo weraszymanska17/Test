@@ -17,7 +17,7 @@ Each project demonstrates a complete workflow: from data extraction and cleaning
 
 ---
 
-## 📊 Project 1 — Loan Default Risk Analysis
+## Project 1 — Loan Default Risk Analysis
 **Goal:** Develop a BI solution to help financial institutions identify high-risk borrowers and improve loan approval decisions.  
 **Tools:** Power BI, SQL Server, DAX, Power Query  
 **Focus:** Risk segmentation, KPI dashboarding, and predictive insight generation.  
@@ -26,7 +26,7 @@ Each project demonstrates a complete workflow: from data extraction and cleaning
 
 ---
 
-## 📈 Project 2 — Data Visualization for Business Optimization
+## Project 2 — Data Visualization for Business Optimization
 **Goal:** Demonstrate Power BI environment transition and database migration between SQL Server and MySQL.  
 **Tools:** Power BI, SQL Server, MySQL, Power Query  
 **Focus:** Data source reconfiguration, KPI consistency validation, and BI deployment workflow.  
@@ -35,7 +35,7 @@ Each project demonstrates a complete workflow: from data extraction and cleaning
 
 ---
 
-## 🏠 Project 3 — Real Estate Market Analysis
+## Project 3 — Real Estate Market Analysis
 **Goal:** Analyze Denmark’s housing market using Google BigQuery and Power BI.  
 **Tools:** Power BI, Google BigQuery, SQL, DAX  
 **Focus:** Market trends, price dynamics, and economic indicators.  
@@ -44,7 +44,7 @@ Each project demonstrates a complete workflow: from data extraction and cleaning
 
 ---
 
-## 👔 Project 4 — Men’s Fashion Brand Performance Analysis (Insight BI)
+## Project 4 — Men’s Fashion Brand Performance Analysis (Insight BI)
 **Goal:** Evaluate the sales, discount, and profitability performance of men’s fashion brands to identify strategic opportunities for pricing and merchandising.  
 **Tools:** Power BI, Azure SQL Database, SQL, DAX  
 **Focus:** Discount optimization, profitability analysis, brand positioning, and data-driven pricing strategy.  
@@ -52,7 +52,7 @@ Each project demonstrates a complete workflow: from data extraction and cleaning
 🔗 [View Project →](./Project%204)
 
 ---
-🌍  ##Project 5 — Tourism in Poland Data Analysis
+## Project 5 — Tourism in Poland Data Analysis
 **Goal:** Explore trends in Polish tourism (1995–2021) using interactive dashboards and regression models.  
 **Tools:** Python, Dash, Plotly, Pandas, Scikit-learn  
 **Focus:** Tourist flows, expenditure, age distribution, and predictive modeling.  
