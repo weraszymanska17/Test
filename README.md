@@ -16,7 +16,7 @@ Each project demonstrates a complete workflow: from data extraction and cleaning
 
 ---
 
-## 📊 Project 1 — Loan Default Risk Analysis
+## 📊 Project 1 — Loan Default Risk Analysis(#project-1--loan-default-risk-analysis)
 **Goal:** Develop a BI solution to help financial institutions identify high-risk borrowers and improve loan approval decisions.  
 **Tools:** Power BI, SQL Server, DAX, Power Query  
 **Focus:** Risk segmentation, KPI dashboarding, and predictive insight generation.  
