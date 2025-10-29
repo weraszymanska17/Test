@@ -83,4 +83,4 @@ My work focuses on combining **data analysis**, **visual communication**, and **
 - Exploring **data trends** that reflect culture, behavior, and lifestyle.
 
 📫 **Let’s connect!**  
-- [LinkedIn]([https://www.linkedin.com/in/yourprofile/](https://www.linkedin.com/in/weronika-szyma%C5%84ska-146838211/))  
+- [LinkedIn](https://www.linkedin.com/in/weronika-szyma%C5%84ska-146838211/)
