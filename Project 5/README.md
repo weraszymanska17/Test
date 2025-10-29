@@ -52,6 +52,7 @@ All values are expressed in **thousands (for counts)**, **millions (for expendit
   - Age group analysis of tourists
     ![Age Analysis](age_analysis.png)
   - Top travel destinations
+    
     ![Top Destinations](top_destination.png)
 - **Statistical Modeling:** Linear regression predicting tourist arrivals, with evaluation metrics (R², MSE, F1-score, accuracy).
   ![Model](regression.png) 
