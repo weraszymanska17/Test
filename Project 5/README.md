@@ -46,16 +46,24 @@ All values are expressed in **thousands (for counts)**, **millions (for expendit
 - **Data Cleaning and Preparation:** Handling missing values, type conversion, removing spaces and formatting issues.  
 - **Interactive Visualizations:**  
   - Tourist arrivals and departures
+    
     ![Arrivals Chart](arrivals_plot.png)
+    
     ![Departure Chart](departure_plot.png)
+    
   - Domestic and outbound travel expenditures
   - Age group analysis of tourists
+    
     ![Age Analysis](age_analysis.png)
+    
   - Top travel destinations
     
     ![Top Destinations](top_destination.png)
+    
 - **Statistical Modeling:** Linear regression predicting tourist arrivals, with evaluation metrics (R², MSE, F1-score, accuracy).
-  ![Model](regression.png) 
+  
+  ![Model](regression.png)
+  
 - **Interactive Dashboard:** Filterable data tables and dynamic charts using dropdown menus.
 
 
